@@ -1,6 +1,6 @@
 <h1>ACNH Critterpedia</h1>
 
-<h2><a href="">Live</a></h2>
+<h2><a href="https://acnh-critterpedia.gh0start.com/">Live</a></h2>
 
 This React application was created as a personal project, used to display information about the various 
 critters that can be caught in the game Animal Crossin New Horizons. 
